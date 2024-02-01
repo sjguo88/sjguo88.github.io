@@ -9,15 +9,20 @@ Demedicalization, stigma, digital communities, intersex/differences of sex devel
 Publications (Complete and In Progress):
 
 Disability and IS/DSD/VST: Panel Points and Citations (research brief, 2023)
-National Academies of Science, Engineering and Medicine Panel (accepted, incorporated for policy review)
+- National Academies of Science, Engineering and Medicine Panel (accepted, incorporated for policy review)
 - Author of Chapter I
+
 Equitable Measurement of Care Disparities and Needs in Intersex Youth/Youth with Variations in Sex Development (NIH funded)
 - Co-author
+- Led by Dr. Amy Tishelman, Dr. John Strang, Dr. Canic Crerand and Katherine Lurie
+- In collaboration with Children's National Hospital, Nationwide Children's, and Harvard School of Public Health
 - contributed in creation of the Youth Self Advocacy Tool for intersex adolescents aged 11-21
 - Awaiting publication
+
 Intersex Minority Stress and Strengths 2023-present
 - Awaiting publication
 - Co-author
+
 Media Studies Honours Thesis: Destigmatizing Intersex Through Information 2023-2024
 - Awaiting publication
 - Preliminary title
@@ -25,7 +30,8 @@ Media Studies Honours Thesis: Destigmatizing Intersex Through Information 2023-2
 Research Related Experience: 
 
 Intersex/DSD Volunteer Research Collective, Founder, 2020-current
-- Co-founded an online research group for the purposes of bridging gaps in accessible research and information on intersex conditions (medically known as DSDs). 
+- Co-founded an online research group for the purposes of bridging gaps in accessible research and information on intersex conditions (medically known as DSDs).
+
 Intersex 101 Resource, Creator, 2023 https://intersex101.com  
 - Created an approachable and comprehensible resource with illustrations geared towards both clinicians and individuals with DSDs/intersex conditions 
 - Resource was incorporated by Pacific Mind Health (psychological health service and collective) for therapist training regarding intersex patients. - - InterACT expressed interest in promoting the project upon its completion
