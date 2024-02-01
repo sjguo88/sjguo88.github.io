@@ -1,2 +1,1 @@
-layout: default
-title: SJ Guo
+SJ Guo UC Berkeley 2024
