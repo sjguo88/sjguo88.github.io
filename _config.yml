@@ -1,5 +1,5 @@
 title: SJ Guo
-description: researcher biography
+description: Si-Jin is a student and researcher affiliated with the University of California, Berkeley. He is currently working on a project to reduce stigma experienced by those with intersex conditions. Read more about intersex issues and this project at intersex101.com!
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
