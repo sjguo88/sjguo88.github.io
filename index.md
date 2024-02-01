@@ -41,6 +41,7 @@ Education:
 B.A. in Media Studies with Honours and Minor in Science Technology and Society
 - University of California Berkeley College of Letters and Science
 - 2019-2024 (expected)
+
 High School Diploma (Art Department Senior Award)
 - Phillips Academy (Andover, Massachusetts)
 - 2015-2019
