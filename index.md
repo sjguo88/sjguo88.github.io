@@ -1,6 +1,6 @@
 ### Introduction: 
 
-Hello, my name is Si-Jin Guo (although I often go by SJ to those who know me) and I am a researcher working in digital communications, medical sociology and science, technology and society. My current research focus is on the classification and depiction of intersex conditions/bodies and the impact of scientific rhetoric in this area on social stigma experienced by those with intersex traits. My current thesis work sets out to test a novel digital resource against existing digital resources (such as Wikipedia) and assessing whether or not perceptions of intersex bodies can be destigmatized due to exposure to more humanizing narratives in conveying information.
+Hello, my name is Si-Jin Guo (although I often go by SJ to those who know me) and I am a researcher working in digital communications, medical sociology and science, technology and society. I focus on the classification and depiction of intersex conditions/bodies and the impact of scientific rhetoric in this area on social stigma experienced by those with intersex traits. My current thesis work sets out to test a novel digital resource against existing digital resources (such as Wikipedia) and assessing whether or not perceptions of intersex bodies can be destigmatized due to exposure to more humanizing narratives in conveying information.
 
 ### Areas of Interest: 
 
@@ -14,7 +14,7 @@ Disability and IS/DSD/VST: Panel Points and Citations (research brief, 2023)
 
 Equitable Measurement of Care Disparities and Needs in Intersex Youth/Youth with Variations in Sex Development (NIH funded)
 - Co-author
-- Led by Dr. Amy Tishelman, Dr. John Strang, Dr. Canic Crerand and Katherine Lurie
+- Led by Dr. Amy Tishelman, Dr. John Strang, Dr. Canice Crerand and Katherine Lurie
 - In collaboration with Children's National Hospital, Nationwide Children's, and Harvard School of Public Health
 - contributed in creation of the Youth Self Advocacy Tool for intersex adolescents aged 11-21
 - Awaiting publication
