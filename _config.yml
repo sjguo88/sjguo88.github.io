@@ -1,6 +1,7 @@
-title: SJ Guo (jguo2001@berkeley.edu)
+title: Si-Jin Guo
 logo: /logo.png
-description: Si-Jin is a student and researcher affiliated with the University of California, Berkeley. He is currently working on a project to reduce stigma experienced by those with intersex conditions.
+email: jguo2001@berkeley.edu
+description: SJ is a student and researcher affiliated with the University of California, Berkeley. He is currently working on a project to reduce stigma experienced by those with intersex conditions.
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
