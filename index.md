@@ -19,6 +19,12 @@ Equitable Measurement of Care Disparities and Needs in Intersex Youth/Youth with
 - contributed in creation of the Youth Self Advocacy Tool for intersex adolescents aged 11-21
 - Awaiting publication
 
+Measuring Stress, Stigma, and Resilience in Individuals with Differences of Sex Development/Intersex Variations (DSD/I), NIH funded, Advisory Board Member, 2024
+- Advisory Board Member
+- Co-author
+- Led by Dr. Katharine Dalke, Dr. Diane Chen and Dr. Tim van de Grift
+- In collaboration with Penn Medicine, Lurie Children's Hospital and VUMC in Amsterdam
+
 Intersex Minority Stress and Strengths 2023-present
 - Awaiting publication
 - Co-author
