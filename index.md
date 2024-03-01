@@ -24,6 +24,7 @@ Measuring Stress, Stigma, and Resilience in Individuals with Differences of Sex 
 - Co-author
 - Led by Dr. Katharine Dalke, Dr. Diane Chen and Dr. Tim van de Grift
 - In collaboration with Penn Medicine, Lurie Children's Hospital and VUMC in Amsterdam
+- Awaiting publication
 
 Intersex Minority Stress and Strengths 2023-present
 - Awaiting publication
