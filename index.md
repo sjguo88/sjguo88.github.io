@@ -15,7 +15,7 @@ Disability and IS/DSD/VST: Panel Points and Citations (research brief, 2023)
 Equitable Measurement of Care Disparities and Needs in Intersex Youth/Youth with Variations in Sex Development (NIH funded)
 - Co-author
 - Led by Dr. Amy Tishelman, Dr. John Strang, Dr. Canice Crerand and Katherine Lurie
-- In collaboration with Children's National Hospital, Nationwide Children's, and Harvard School of Public Health
+- In collaboration with Children's National Hospital, Nationwide Children's, Harvard School of Public Health and Boston College
 - contributed in creation of the Youth Self Advocacy Tool for intersex adolescents aged 11-21
 - Awaiting publication
 
