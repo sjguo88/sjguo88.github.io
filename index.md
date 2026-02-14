@@ -149,6 +149,8 @@ Depathologization, stigma, intersex/differences of sex development, 'biodivergen
 
 **B.A. in Media Studies with Honours and Minor in Science Technology and Society**
 - University of California Berkeley College of Letters and Science
+- Focus on Digital Health Communications
+- Stronach Baccalaureate Prize Winner
 - 2019-2024
 
 **High School Diploma (Art Department Senior Award)**
