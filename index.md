@@ -82,20 +82,20 @@ Depathologization, stigma, intersex/differences of sex development, 'biodivergen
 
 ### Professional Experience: 
 
-# Research Collaborator @ BEING-U Clinic, SPROUTS Clinic                                                               
+**Research Collaborator @ BEING-U Clinic, SPROUTS Clinic**                                                               
 - Boston Children’s Hospital
 - Lurie Children's Hospital                                                                                                            
 - Collaborate on research on inter-clinician dynamics, procedures, protocols, and principles of multidisciplinary VST/DSD
 - Create clinically validated scales for intersex patients to better describe genital and reproductive health concerns, as well as prompts to help improve patient self-advocacy
 - Manage and run a listserv founded by a BCH provider for clinicians interested in intersex/DSD care
 
-# Co-Director & Founder  @ Divergence Database & Intersex 101                                 	  
+**Co-Director & Founder  @ Divergence Database & Intersex 101**                                 	  
 - Create a searchable and sortable database for over 100 variations and subvariations of sex development for the primary use of medical and healthcare professionals
 - Database features a unique sorting algorithm, variation summaries rooted in the most recent literature, referral resources and guides for each specialty advised by experts in the field
 - The database will also be connected to Intersex 101, a site created for intersex adolescents and young adults aiming to improve patient self-advocacy and education
 - Project is managed by Dr. Kristine Coons
 
-# Co-Principal Investigator 
+**Co-Principal Investigator** 
 - UC Berkeley and CUIMC						           
 - Established Healthcare, Information, Diagnostics and Equity for Variations of Sex Characteristics (HIDE-VSC) Initiative, funded by UC Berkeley
 - Multi-phase study on Clinical and Psychosocial Experiences of DSD Adolescents/Young Adults
@@ -109,7 +109,7 @@ Depathologization, stigma, intersex/differences of sex development, 'biodivergen
 - Expert collaborators: Dr. Amy Tishelman, Dr. Frances Grimstad, Dr. Camilla Kamoun, Dr. Michelle LaRosa
 - Translational study on a two-phase assay from wrist skin fibroblasts to provide a diagnostic tool for AIS agnostic to genetic testing
 
-# Co-Founder & Patient Advocate @ Haven Network		  			
+**Co-Founder & Patient Advocate @ Haven Network**		  			
 - Perform patient advocacy for over 200 intersex individuals and mentor/supervise other patient advocates on the team
 - Help clients establish clarity regarding radiological, endocrine, and genetic findings, and understand their diagnoses
 - Help clients understand treatment options and build strategies aligned with their healthcare goals in collaboration with their providers
@@ -118,40 +118,40 @@ Depathologization, stigma, intersex/differences of sex development, 'biodivergen
 - Help members escape and prevent dangerous situations via psychological support, suicide prevention, and resources for individuals in sex trafficking
 - Devised DSD definitions and collaborated to better establish legal DSD exceptions in puberty blocker bans in states such as Florida
 
-# Advisory Board Member						
+**Advisory Board Member**						
 - Perelman School of Medicine						       
 - Measuring Stress, Stigma, and Resilience in Individuals with Differences of Sex Development/Intersex Variations
 - Responsibilities: qualitative coding, editing, comments for review
 - Project led by Dr. Katharine Dalke, Dr. Diane Chen and Dr. Tim van de Grift
 
-# Advisory Board Member
+**Advisory Board Member**
 - Primary Children's Hospital @ Utah
 - Working with Dr. Kristina Suorsa-Johnson
 
 ### Work Experience
 
-# Fellow/Visiting Scholar
+**Fellow/Visiting Scholar**
 - 2024-2025
 - University of California, Berkeley
 - Stronach Baccalaureate Prize Programme
 
-# Research Lead
+**Research Lead**
 - 2026
 - Intersex Canada
 - Healthcare Mapping Tool Project
 
 ### Education: 
 
-# M.PH  in Sociomedical Sciences with Certificate in Public Health Research Methods	
+**M.PH  in Sociomedical Sciences with Certificate in Public Health Research Methods**	
 - Columbia University Irving Medical Centre
 - Mailman School of Public Health
 - 2024-2026 (Expected)	
 
-# B.A. in Media Studies with Honours and Minor in Science Technology and Society
+**B.A. in Media Studies with Honours and Minor in Science Technology and Society**
 - University of California Berkeley College of Letters and Science
 - 2019-2024
 
-# High School Diploma (Art Department Senior Award)
+**High School Diploma (Art Department Senior Award)**
 - Phillips Academy (Andover, Massachusetts)
 - 2015-2019
 
