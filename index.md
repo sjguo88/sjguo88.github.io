@@ -8,10 +8,9 @@ Depathologization, stigma, intersex/differences of sex development, 'biodivergen
 
 ## Projects, Studies and Publications:
 
-*Improving the Diagnostic Toolkit for Androgen Insensitivity Syndrome with an Androgen Receptor Immunofluorescence Assay*
-- Co-Principal Investigator            			       
+*Improving the Diagnostic Toolkit for Androgen Insensitivity Syndrome with an Androgen Receptor Immunofluorescence Assay*           			       
 - July 2025–Current
-- Co-PI with Professor Lauren Houghton, mentored by Dr. Katharine Dalke
+- Planning stage, mentored by Dr. Katharine Dalke
 - Aim to create a diagnostic assay using wrist fibroblasts to provide an affordable alternative that is agnostic to genetic testing and less invasive/traumatizing than the current genital fibroblast assay
 
 *Content-Validated and Reliability-Tested Difference of Sex Development Diagrams, Guides and Informational Resources for Providers and Patients* 
