@@ -1,4 +1,4 @@
-### Introduction: 
+## Introduction: 
 
 Hello, my name is Si-Jin Guo (although I often go by SJ to those who know me) and I am a researcher working in translational research, paediatric to adult care transitions and holistic, personalized approaches to medicine. I focus on the classification and depiction of intersex conditions/bodies, improving the clinical and psychosocial outcomes of the intersex/DSD/VSC populations and creating/validating tools and resources to bridge gaps in the care landscape between patients, providers and care systems. In my free time, I like to build mechanical keyboards, investigate urban subway systems and playing indie RPG games!
 
@@ -6,7 +6,7 @@ Hello, my name is Si-Jin Guo (although I often go by SJ to those who know me) an
 
 Depathologization, stigma, intersex/differences of sex development, 'biodivergence', paediatric transition of care, health communications, personalized medicine
 
-### Publications (Complete and In Progress):
+## Publications (Complete and In Progress):
 
 *Improving the Diagnostic Toolkit for Androgen Insensitivity Syndrome with an Androgen Receptor Immunofluorescence Assay*
 - Co-Principal Investigator            			       
@@ -80,7 +80,7 @@ Depathologization, stigma, intersex/differences of sex development, 'biodivergen
 - Authored Chapter I of brief: Disability and IS/DSD/VST: Panel Points and Citations
 - Brief was accepted for policy review and used to advise Medicaid and Medicare coverage expansion, as well as DSD disability eligibility
 
-### Professional Experience: 
+## Professional Experience: 
 
 **Research Collaborator @ BEING-U Clinic, SPROUTS Clinic**                                                               
 - Boston Children’s Hospital
@@ -128,7 +128,7 @@ Depathologization, stigma, intersex/differences of sex development, 'biodivergen
 - Primary Children's Hospital @ Utah
 - Working with Dr. Kristina Suorsa-Johnson
 
-### Work Experience
+## Work Experience
 
 **Fellow/Visiting Scholar**
 - 2024-2025
@@ -140,7 +140,7 @@ Depathologization, stigma, intersex/differences of sex development, 'biodivergen
 - Intersex Canada
 - Healthcare Mapping Tool Project
 
-### Education: 
+## Education: 
 
 **M.PH  in Sociomedical Sciences with Certificate in Public Health Research Methods**	
 - Columbia University Irving Medical Centre
