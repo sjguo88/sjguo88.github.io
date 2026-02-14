@@ -6,7 +6,7 @@ Hello, my name is Si-Jin Guo (although I often go by SJ to those who know me) an
 
 Depathologization, stigma, intersex/differences of sex development, 'biodivergence', paediatric transition of care, health communications, personalized medicine
 
-## Publications (Complete and In Progress):
+## Projects, Studies and Publications:
 
 *Improving the Diagnostic Toolkit for Androgen Insensitivity Syndrome with an Androgen Receptor Immunofluorescence Assay*
 - Co-Principal Investigator            			       
@@ -23,7 +23,7 @@ Depathologization, stigma, intersex/differences of sex development, 'biodivergen
 - Co-Principal Investigator
 - October 2024–Current
 - Co-PI of this study with Professor Lawrence Cohen, mentored by Dr. Katharine Dalke
-- Study done in collaboration with major Children's Hospitals
+- Ongoing study done in collaboration with major Children's Hospitals
 
 *Intersex/DSD/VSC Didactic/Workshop for Medical Primary Care Providers and Behavioural Health Professionals*
 - Creator             							      
