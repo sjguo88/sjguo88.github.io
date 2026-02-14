@@ -1,6 +1,6 @@
 ### Introduction: 
 
-Hello, my name is Si-Jin Guo (although I often go by SJ to those who know me) and I am a researcher working in digital communications, medical sociology and science, technology and society. I focus on the classification and depiction of intersex conditions/bodies and the impact of scientific rhetoric in this area on social stigma experienced by those with intersex traits. My current thesis work sets out to test a novel digital resource against existing digital resources (such as Wikipedia) and assessing whether or not perceptions of intersex bodies can be destigmatized due to exposure to more humanizing narratives in conveying information.
+Hello, my name is Si-Jin Guo (although I often go by SJ to those who know me) and I am a researcher working in translational research, paediatric to adult care transitions and holistic, personalized approaches to medicine. I focus on the classification and depiction of intersex conditions/bodies, improving the clinical and psychosocial outcomes of the intersex/DSD/VSC populations and creating/validating tools and resources to bridge gaps in the care landscape between patients, providers and care systems. In my free time, I like to build mechanical keyboards, investigate urban subway systems and playing indie RPG games!
 
 ### Areas of Interest: 
 
@@ -41,20 +41,20 @@ Asian American Enclave Healthcare Mapping
 - February  2025–Current
 - Mapped, coded and wrote subsection and associated index materials regarding organically formed healthcare/medical resource clusters within community centres in Asian American enclaves in NYC
 
-Trauma-Informed Care Training for The Community Initiatives of NYC | 
+Trauma-Informed Care Training for The Community Initiatives of NYC  
 - Co-Creator
 - April 2025
 - Training sessions facciliated by Mailman School of Public Health and Trauma Free NYC
 - Created training presentation materials as well as flyers delineating trauma-informed care
 
-World Professional Association for Transgender Health (WPATH) Presentation  |  
+World Professional Association for Transgender Health (WPATH) Presentation  
 - Collaborator
 - September 2024
 - Developed scale measuring diversity of types of DSD/VST and phenotypes within a single DSD/VST used in the presentation led by Dr. Amy Tishelman for the WPATH
 - Revised and contributed written content to presentation slides delineating current obstacles in DSD/VST care for adolescents and young adults
 - Presentation had audience of over 1000 providers, ranging from primary care to endocrinology, urology and gynaecology.
 
-Equitable Measurement of Care Disparities and Needs in Intersex Youth/Youth with Variations in Sex Development  |  
+Equitable Measurement of Care Disparities and Needs in Intersex Youth/Youth with Variations in Sex Development  
 - Expert Collaborator
 - February 2024–Current
 - Created intake form in collaboration with Children’s National Hospital, Lurie Children’s, and Harvard School of Public Health to establish avenues for patient autonomy and advocacy
@@ -131,10 +131,12 @@ Advisory Board Member
 ### Work Experience
 
 Fellow/Visiting Scholar
+- 2024-2025
 - University of California, Berkeley
 - Stronach Baccalaureate Prize Programme
 
 Research Lead
+- 2026
 - Intersex Canada
 - Healthcare Mapping Tool Project
 
