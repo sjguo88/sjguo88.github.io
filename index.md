@@ -1,6 +1,6 @@
 ## Introduction: 
 
-Hello, my name is Si-Jin Guo (although I often go by SJ to those who know me) and I am a researcher working in translational research, paediatric to adult care transitions and holistic, personalized approaches to medicine. I focus on the classification and depiction of intersex conditions/bodies, improving the clinical and psychosocial outcomes of the intersex/DSD/VSC populations and creating/validating tools and resources to bridge gaps in the care landscape between patients, providers and care systems. In my free time, I like to build mechanical keyboards, investigate urban subway systems and playing indie RPG games!
+Hello, my name is Si-Jin Guo (although I often go by SJ to those who know me) and I am a researcher working in translational research, paediatric to adult care transitions and holistic, personalized approaches to medicine. I focus on the classification and depiction of intersex conditions/bodies, improving the clinical and psychosocial outcomes of the intersex/DSD/VSC populations and creating/validating tools and resources to bridge gaps in the care landscape between patients, providers and care systems. In my free time, I like to build mechanical keyboards, investigate urban subway systems, and play indie RPG games!
 
 ### Areas of Interest: 
 
